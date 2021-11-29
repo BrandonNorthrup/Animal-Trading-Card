@@ -1,0 +1,54 @@
+/* Custom style sheet */
+
+body {
+  font-family: Times New Roman, sans-serif;
+}
+
+.main {
+  width: 320px;
+  border: solid #ccc 1px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px 2px #888888;
+}
+
+img {
+  display: block;
+  margin: auto;
+  border-radius: 10px;
+}
+
+.main-content {
+  width: 300px;
+  border: solid #ccc 1px;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.animalFact {
+  font-style: italic;
+}
+
+h3 {
+  padding: 0px 100px;
+  border: solid 1px;
+  border-radius: 10px;
+}
+
+p {
+  padding: 0 10px;
+}
+
+ul {
+  list-style: none;
+  padding: 0 10px;
+}
+
+li {
+  font-style: italic;
+}
+
+span {
+  font-style: normal;
+  font-weight: bold;
+}
+
